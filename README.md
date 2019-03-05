@@ -1,7 +1,5 @@
 # Spring-WebMVC-Hibernate-CRUD
 
-Note: Read the cofiguration at the bottom first
-
 **Overview**
 
 ![alt text](https://user-images.githubusercontent.com/28784098/53800035-26059b00-3f3c-11e9-8ea8-b686bd7b2e88.JPG)
