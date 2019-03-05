@@ -1,0 +1,31 @@
+body {
+    /* CENTERING
+    margin-left: 22.65625%;
+     */
+    margin-left: 1%;
+    margin-top: 1%;
+    font-family: italic, verdana, Arial;
+}
+
+header {
+    background: #5f9ea0;
+    width: 1100px;
+    height: 50px;
+    display: block;
+    position: absolute;
+}
+
+header > div {
+    bottom: 10px;
+    height: 30px;
+    text-align: center;
+    position: relative;
+}
+
+header > div > h2 {
+    color: #FFFFFF;
+}
+
+#container {
+    width: 1000px;
+}
