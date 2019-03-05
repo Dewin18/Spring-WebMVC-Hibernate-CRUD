@@ -2,7 +2,7 @@
 
 **Overview**
 
-![alt text](https://user-images.githubusercontent.com/28784098/53800035-26059b00-3f3c-11e9-8ea8-b686bd7b2e88.JPG)
+![alt text](https://user-images.githubusercontent.com/28784098/53801406-5d297b80-3f3f-11e9-83b8-0c5fef2d2e3f.JPG)
 
 **Configuration:**
 
