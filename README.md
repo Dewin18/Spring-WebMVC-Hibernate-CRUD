@@ -6,6 +6,7 @@
 
 **Configuration:**
 
+- Tomcat 8.5.12
 - Setup a database schema "customer_schema" for user = "root" and password ="root"
 - Create the following table "customer" inside of the schema
 
